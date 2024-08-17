@@ -1,9 +1,0 @@
-Num1 = int(input("Enter The Num 1 : "))
-Num2 = int(input("Enter The Num 2 : "))
-final = Num1
-print(f"{"Sum is"}  = {final + Num2}")
-print(f"{"Sub is"}  = {final - Num2}")
-print(f"{"Div is"}  = {final / Num2}")
-print(f"{"Mul is"}  = {final * Num2}")
-print(f"{"Maximum Number is"}  = {max(final, Num2)}")
-print(f"{"Power is"}  = {pow(final, Num2)}")
