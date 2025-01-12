@@ -1,4 +1,4 @@
-# identify type of triangle
+# identify type of triangle --->> Triangle Classifier
 
 a = float(input("Enter First Side Of A Tringle: "))
 b = float(input("Enter Second Side Of A Tringle: "))
